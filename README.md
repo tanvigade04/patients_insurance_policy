@@ -1,5 +1,5 @@
-# SQL_CaseStudy on Patients Insurance Policy history 
-Performed exploratory data analysis to gain insights into patients’ insurance history.
+# SQL_CaseStudy on Patients Medical history and insurance claim amount 
+Performed exploratory data analysis to gain insights into patients’ medical history.
 # Questions explored
 -- 1	Show all columns and rows in the table.
 
